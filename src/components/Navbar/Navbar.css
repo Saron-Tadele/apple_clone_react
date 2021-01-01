@@ -1,0 +1,74 @@
+body {
+ padding: 0px;
+ margin: 0px;
+}
+
+img {
+ max-width: 100%;
+}
+
+body {
+ font-size: 20px;
+ font-family: 'Montserrat', sans-serif;
+}
+
+
+
+/*Header style*/
+.nav-wrapper {
+    background-color: #131313;
+    color: #fff;
+    font-weight: 100px;
+    font-size: 0.7em;
+    /* position: sticky;
+    top:0; */
+
+}
+
+@media (max-width: 768px) {
+    .nav-wrapper li {
+        border-bottom: 1px solid #fff;
+    }
+}
+
+.nav-wrapper li {
+    opacity: 0.7;
+}
+
+.nav-wrapper li:hover {
+    opacity: 1;
+}
+
+.nav-wrapper .container {
+    width: 980px;
+}
+
+.logo-link {
+    width: 58px;
+    display: block;
+}
+
+.search-link,
+.cart-link {
+    width: 18px;
+    display: block;
+}
+
+.navbar-toggler {
+    color: #fff;
+}
+
+.navbar {
+    padding: 0;
+}
+
+.navbar-nav .nav-link {
+    color: #fff;
+    text-align: left;
+}
+
+@media (max-width: 768px) {
+    .navbar-collapse {
+        height: 100vh;
+    }
+}

@@ -1,0 +1,37 @@
+body {
+ padding: 0px;
+ margin: 0px;
+}
+
+img {
+ max-width: 100%;
+}
+
+body {
+ font-size: 20px;
+ font-family: 'Montserrat', sans-serif;
+}
+
+
+.third-highlight-wrapper {
+ background-image: url("../image1/hero__dvsxv8smkkgi_small (2).jpg");
+ height: 580px;
+ background-position: center;
+ background-color: #FAFAFA;
+ background-repeat: no-repeat;
+ background-size: contain;
+ padding-top: 50px;
+ color: #000;
+}
+
+@media (min-width: 1140px) {
+ .third-highlight-wrapper {
+     background-image: url("../image1/hero__dvsxv8smkkgi_medium (1).jpg");
+     padding-top: 50px;
+
+ }
+}
+
+.third-highlight-wrapper .description-wrapper {
+ padding-left: 50px;
+}

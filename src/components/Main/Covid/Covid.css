@@ -1,0 +1,32 @@
+body {
+ padding: 0px;
+ margin: 0px;
+}
+
+img {
+ max-width: 100%;
+}
+
+body {
+ /* font-size: 20px; */
+ font-family: 'Montserrat', sans-serif;
+}
+
+.covid-info-wrapper {
+ background: blue;
+ height: 37px;
+ font-weight: 400;
+ font-size: 0.75em;
+ margin-top: 35px;
+ text-align: center;
+	padding: 20px 0 30px;
+}
+
+.covid-info-link a {
+ color: #fff;
+	text-decoration: none;
+}
+
+.covid-info-link a :hover {
+ text-decoration: underline;
+}

@@ -1,0 +1,72 @@
+body {
+ padding: 0px;
+ margin: 0px;
+}
+
+img {
+ max-width: 100%;
+}
+
+body {
+ font-size: 20px;
+ font-family: 'Montserrat', sans-serif;
+}
+
+.fifth-highlight-wrapper .left-side-wrapper {
+ background-image: url("../image1/tile__cauwwcyyn9hy_small (2).jpg");
+ height: 580px;
+ background-color: #FAFAFA;
+ background-repeat: no-repeat;
+ background-size: initial;
+ background-position: bottom;
+ padding-top: 50px;
+
+}
+
+.fifth-highlight-wrapper .right-side-wrapper {
+ background-image: url("../image1/tile__cauwwcyyn9hy_small (3).jpg");
+ background-color: #000;
+ height: 580px;
+ background-size: center;
+ background-position: bottom;
+ background-size: initial;
+ margin: 0 0 10px 0;
+}
+
+.upper-logo {
+ position: relative;
+ left: 45%;
+ padding-top: 25%;
+}
+
+.bottom-logo {
+ position: relative;
+ left: 25%;
+ top: 40%;
+}
+
+.fifth-highlight-wrapper .left-side-wrapper .description-wrapper {
+
+ color: #000;
+ font-weight: 500;
+ font-size: 15px;
+
+
+}
+
+.fifth-highlight-wrapper .right-side-wrapper .description-wrapper {
+
+ color: #fff;
+ font-weight: 500;
+ font-size: 15px;
+ padding-top: 240px;
+
+}
+.fifth-highlight-wrapper .right-side-wrapper .description-wrapper {
+
+ color: #fff;
+ font-weight: 500;
+ font-size: 15px;
+ padding-top: 240px;
+
+}

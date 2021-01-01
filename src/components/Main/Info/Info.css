@@ -1,0 +1,31 @@
+body {
+ padding: 0px;
+ margin: 0px;
+}
+
+img {
+ max-width: 100%;
+}
+
+body {
+ font-size: 20px;
+ font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+.online-shop-wrapper {
+ background: #fff;
+ color: #000;
+ font-weight: 400;
+ font-size: 0.75em;
+ text-align: center;
+ /* margin: 0 0 17px 15px ; */
+ padding: 12px 0 ;
+
+}
+.Shop a{
+ text-decoration: none;
+ color: #000;
+}

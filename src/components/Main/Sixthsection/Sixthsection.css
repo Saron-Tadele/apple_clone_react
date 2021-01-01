@@ -1,0 +1,42 @@
+.sixth-highlight-wrapper .left-side-wrapper {
+ background-image: url("../image1/tile_aws5__fwphji1d8yeu_small.jpg");
+ height: 580px;
+ background-color: #FAFAFA;
+ background-repeat: no-repeat;
+ background-size: initial;
+ background-position: bottom;
+ padding-top: 50px;
+ margin-bottom: 10px;
+
+}
+
+.sixth-highlight-wrapper .right-side-wrapper {
+ background-image: url("../image1/tile__cauwwcyyn9hy_small (4).jpg");
+ background-color: #000;
+ height: 580px;
+ background-size: center;
+ background-position: bottom;
+ background-size: initial;
+ margin: 0 0 10px 0;
+}
+
+.upper-logo {
+ position: relative;
+ left: 45%;
+ padding-top: 25%;
+}
+
+
+
+.sixth-highlight-wrapper .right-side-wrapper .title-wrapper {
+
+ color: #000;
+ font-weight: 600;
+ font-size: 34px;
+ padding-top: 50px;
+
+
+}
+
+
+

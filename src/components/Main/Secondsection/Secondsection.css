@@ -1,0 +1,53 @@
+body {
+ padding: 0px;
+ margin: 0px;
+}
+
+img {
+ max-width: 100%;
+}
+
+body {
+ font-size: 20px;
+ font-family: 'Montserrat', sans-serif;
+}
+
+
+.second-hightlight-wrapper {
+ background-image: url("../image1/hero__dvsxv8smkkgi_small\ \(1\).jpg");
+ height: 580px;
+ background-color: #FAFAFA;
+ background-position: bottom;
+ background-repeat: no-repeat;
+ background-size: initial;
+ padding-top: 50px;
+ margin-bottom: 10px;
+
+}
+
+@media (min-width: 1061px) {
+ .second-hightlight-wrapper {
+     background-image: url("../image1/hero__dvsxv8smkkgi_largetall_2x.jpg");
+     background-size: contain !important;
+ }
+}
+
+.title-wrapper {
+ font-weight: 600;
+ font-size: 36px;
+ color: #000;
+ text-align: center;
+
+}
+
+.description-wrapper {
+ font-weight: 500;
+ font-size: 18px;
+ color: #000;
+ text-align: center;
+}
+
+.price-wrapper {
+ color: #8686Bb;
+ font-size: 95%;
+}
